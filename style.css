@@ -168,6 +168,9 @@ footer img{
         height: 20px;
         width: 15%;
     }
+    .home{
+        font-size: 20px;
+    }
 }
 @media (min-width:400px){
     #contatos img{
@@ -222,5 +225,39 @@ footer img{
         font-size: 11px;
     }
 }
-
-
+@media (min-width:1200px){
+    #contatos img{
+        width: 10%;
+    }
+    #contatos{
+        font-size: 14px;
+    }
+    button{
+        width: 10%;
+    }
+    input{
+        height: 20px;
+        width: 15%;
+    }
+    .home{
+        font-size: 16px;
+    }
+}
+@media (min-width:1000px){
+    #contatos img{
+        width: 15%;
+    }
+    #contatos{
+        font-size: 14px;
+    }
+    button{
+        width: 10%;
+    }
+    input{
+        height: 20px;
+        width: 15%;
+    }
+    .home{
+        font-size: 16px;
+    }
+}
